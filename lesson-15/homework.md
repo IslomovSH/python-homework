@@ -4,7 +4,13 @@
 
 2.  Populate your new table with the following values:
 
-    ![image.png](attachment:image.png)
+| Name            | Species      | Age |
+|-----------------|--------------|-----|
+| Benjamin Sisko  | Human        |  40 |
+| Jadzia Dax      | Trill        | 300 |
+| Kira Nerys      | Bajoran      |  29 |
+
+
 
 3. Update the Name of Jadzia Dax to be Ezri Dax
 
