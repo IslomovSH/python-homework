@@ -1,0 +1,101 @@
+OrderID,CustomerID,Product,Quantity,Price
+1,101,Laptop,2,800
+2,102,Headphones,1,150
+3,103,Smartphone,3,400
+4,101,External Hard Drive,2,80
+5,102,Backpack,1,40
+6,104,Tablet,2,300
+7,101,Wireless Mouse,1,25
+8,103,Wireless Earbuds,2,120
+9,102,Smart TV,1,1000
+10,104,Coffee Maker,1,50
+11,105,Sneakers,2,50
+12,103,Dress Shirt,3,25
+13,104,Kitchen Scale,1,20
+14,101,Sunglasses,1,15
+15,102,Blender,2,60
+16,103,Formal Shoes,1,60
+17,104,Cookware Set,1,60
+18,105,Wireless Speaker,1,70
+19,101,Gaming Console,1,400
+20,102,Summer Dress,2,30
+21,103,Steam Iron,1,30
+22,104,Comforter Set,1,45
+23,105,Point-and-Shoot Camera,1,250
+24,101,Cargo Pants,2,30
+25,102,Desk Lamp,1,25
+26,103,Wireless Charger,1,35
+27,104,Sweater,2,35
+28,105,Projector,1,200
+29,101,Denim Jacket,1,45
+30,102,Casual Shoes,1,30
+31,103,Blu-ray Player,1,70
+32,104,Sport Shoes,2,40
+33,105,Drone,1,300
+34,101,Formal Shirt,2,35
+35,102,Jeans,1,30
+36,103,Bluetooth Headset,1,50
+37,104,Hoodie,1,25
+38,105,Desk Chair,1,75
+39,101,Fitness Tracker,1,60
+40,102,Toaster,1,25
+41,103,Coffee Table,1,100
+42,104,Bookshelf,1,80
+43,105,Denim Skirt,1,25
+44,101,Sweatshirt,2,35
+45,102,Backpack,1,40
+46,103,Formal Shoes,1,60
+47,104,Smart TV,1,1000
+48,105,Cargo Pants,2,30
+49,101,Sunglasses,1,15
+50,102,Wireless Mouse,1,25
+51,103,Wireless Earbuds,2,120
+52,104,Gaming Console,1,400
+53,105,Comforter Set,1,45
+54,101,External Hard Drive,1,80
+55,102,Smartphone,2,400
+56,103,Backpack,1,40
+57,104,Desk Lamp,1,25
+58,105,Dress Shirt,2,25
+59,101,Casual Shoes,1,30
+60,102,Blender,1,60
+61,103,Wireless Charger,1,35
+62,104,Steam Iron,2,30
+63,105,Sneakers,1,50
+64,101,Coffee Maker,1,50
+65,102,Formal Shirt,2,35
+66,103,Fitness Tracker,1,60
+67,104,Jeans,1,30
+68,105,Cargo Pants,1,30
+69,101,Point-and-Shoot Camera,1,250
+70,102,Summer Dress,1,30
+71,103,Bluetooth Headset,1,50
+72,104,Blu-ray Player,1,70
+73,105,Hoodie,1,25
+74,101,Sport Shoes,1,40
+75,102,Drone,1,300
+76,103,Sweater,1,35
+77,104,Coffee Table,2,100
+78,105,Projector,1,200
+79,101,Bookshelf,1,80
+80,102,Denim Jacket,1,45
+81,103,Cargo Pants,1,30
+82,104,Sunglasses,2,15
+83,105,Formal Shoes,1,60
+84,101,Wireless Speaker,1,70
+85,102,Desk Chair,1,75
+86,103,Toaster,2,25
+87,104,Smart TV,1,1000
+88,105,Casual Shoes,1,30
+89,101,Coffee Maker,1,50
+90,102,Backpack,1,40
+91,103,Formal Shirt,2,35
+92,104,Jeans,1,30
+93,105,Wireless Mouse,1,25
+94,101,Sunglasses,1,15
+95,102,Fitness Tracker,1,60
+96,103,Blender,1,60
+97,104,Sport Shoes,2,40
+98,105,Comforter Set,1,45
+99,101,Wireless Earbuds,2,120
+100,102,Gaming Console,1,400

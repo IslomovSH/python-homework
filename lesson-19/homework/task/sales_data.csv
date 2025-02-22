@@ -1,0 +1,51 @@
+Date,Product,Category,Quantity,Price
+2023-01-01,Laptop,Electronics,10,800
+2023-01-01,T-Shirt,Clothing,5,20
+2023-01-02,Smartphone,Electronics,8,400
+2023-01-02,Coffee Maker,Home,12,50
+2023-01-03,Jeans,Clothing,15,30
+2023-01-03,Blender,Home,6,60
+2023-01-04,Headphones,Electronics,10,150
+2023-01-04,Sweater,Clothing,7,35
+2023-01-05,Toaster,Home,8,25
+2023-01-05,Tablet,Electronics,12,300
+2023-01-06,Sneakers,Clothing,10,50
+2023-01-06,Vacuum Cleaner,Home,5,80
+2023-01-07,Smart TV,Electronics,15,1000
+2023-01-07,Hoodie,Clothing,6,25
+2023-01-08,Blu-ray Player,Home,9,70
+2023-01-08,Wireless Earbuds,Electronics,11,120
+2023-01-09,Denim Jacket,Clothing,13,45
+2023-01-09,Air Purifier,Home,7,90
+2023-01-10,Gaming Console,Electronics,14,400
+2023-01-10,Formal Shirt,Clothing,8,35
+2023-01-11,Cookware Set,Home,10,60
+2023-01-11,External Hard Drive,Electronics,9,80
+2023-01-12,Sunglasses,Clothing,11,15
+2023-01-12,Desk Lamp,Home,6,25
+2023-01-13,Wireless Speaker,Electronics,12,70
+2023-01-13,Sweatpants,Clothing,7,20
+2023-01-14,Coffee Table,Home,8,100
+2023-01-14,Drone,Electronics,10,300
+2023-01-15,Backpack,Clothing,14,40
+2023-01-15,Comforter Set,Home,7,45
+2023-01-16,Fitness Tracker,Electronics,9,60
+2023-01-16,Casual Shoes,Clothing,6,30
+2023-01-17,Kitchen Scale,Home,12,20
+2023-01-17,Projector,Electronics,13,200
+2023-01-18,Dress Shirt,Clothing,8,25
+2023-01-18,Steam Iron,Home,11,30
+2023-01-19,Soundbar,Electronics,15,150
+2023-01-19,Sweatshirt,Clothing,7,35
+2023-01-20,Bedside Lamp,Home,10,20
+2023-01-20,Point-and-Shoot Camera,Electronics,8,250
+2023-01-21,Sport Shoes,Clothing,12,40
+2023-01-21,Desk Chair,Home,6,75
+2023-01-22,Wireless Mouse,Electronics,11,25
+2023-01-22,Summer Dress,Clothing,9,30
+2023-01-23,Pressure Cooker,Home,14,50
+2023-01-23,Bluetooth Headset,Electronics,7,50
+2023-01-24,Denim Skirt,Clothing,8,25
+2023-01-24,Bookshelf,Home,13,80
+2023-01-25,4K Monitor,Electronics,9,350
+2023-01-25,Cargo Pants,Clothing,11,30
