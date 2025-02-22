@@ -1,36 +1,55 @@
 Homework:
-1. <a href="https://www.hackerrank.com/challenges/write-a-function/problem">Find leap year</a>
 
-for this puzzle don't create function.
+1.
+def is_leap(year):
+    """
+    Determines whether a given year is a leap year.
 
-answer 1:
+    A year is a leap year if:
+    - It is divisible by 4, and
+    - It is NOT divisible by 100, unless it is also divisible by 400.
 
-```python
-year = int(input("Enter a year: "))
+    Parameters:
+    year (int): The year to be checked.
 
-if (year % 4 == 0 and year % 100 != 0) or (year % 400 == 0):
-    print(f"{year} is a leap year.")
-else:
-    print(f"{year} is not a leap year.")
+    Returns:
+    bool: True if the year is a leap year, False otherwise.
+    """
+    if not isinstance(year, int):
+        raise ValueError("Year must be an integer.")
+    
+    return (year % 4 == 0 and year % 100 != 0) or (year % 400 == 0)
+
+
+
+## 2. Conditional Statements Exercise
+
+Given an integer, `n`, perform the following conditional actions:
+
+- If `n` is **odd**, print `Weird`
+- If `n` is **even** and in the inclusive range of **2 to 5**, print `Not Weird`
+- If `n` is **even** and in the inclusive range of **6 to 20**, print `Weird`
+- If `n` is **even** and **greater than 20**, print `Not Weird`
+
+## Input Format
+A single line containing a positive integer, `n`.
+
+## Constraints
+- `1 <= n <= 100`
+
+## Output Format
+Print `Weird` if the number is weird. Otherwise, print `Not Weird`.
+
+## Sample Input 0
+```
+3
 ```
 
-answer 2:
-```python
-year = int(input("Enter a year: "))
-
-if year % 4 == 0:
-    if year % 100 == 0:
-        if year % 400 == 0:
-            print(f"{year} is a leap year.")
-        else:
-            print(f"{year} is not a leap year.")
-    else:
-        print(f"{year} is a leap year.")
-else:
-    print(f"{year} is not a leap year.")
+## Sample Output 0
+```
+Weird
 ```
 
-2. <a href="https://www.hackerrank.com/challenges/py-if-else/problem">if-else problem</a>
 
 3. Given two integer numbers a and b. Find even numbers between this numbers. a and b are inclusive. Don't use loop. 
 
