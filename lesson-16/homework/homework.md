@@ -86,3 +86,12 @@ After append values to the end of the array:
 # 8. Array Statistical Functions (Do self-tudy)
 
 Create a random NumPy array of 10 elements and calculate the mean, median, and standard deviation of the array.
+
+
+# 9 Find min and max 
+
+Create a 10x10 array with random values and find the minimum and maximum values.
+
+# 10 
+
+Create a 3x3x3 array with random values.
