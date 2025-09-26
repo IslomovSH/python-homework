@@ -11,7 +11,7 @@ Given a string `txt`, insert an underscore (`_`) after every third character. If
 **Output:** `ass_alom`
 
 **Input:** `abcabcabcdeabcdefabcdefg`
-**Output:** `abc_abcab_cdeab_cdef_abcd_efg`
+**Output:** `abc_abcab_cdeabcd_efabcdef_g`
 
 ---
 
